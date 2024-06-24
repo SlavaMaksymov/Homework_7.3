@@ -1,0 +1,17 @@
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.csproj.AssemblyReference.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.Form1.resources
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.csproj.GenerateResource.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.AssemblyInfoInputs.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.AssemblyInfo.cs
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.csproj.CoreCompileInputs.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\bin\Debug\net6.0-windows\Homework7_3.exe
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\bin\Debug\net6.0-windows\Homework7_3.deps.json
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\bin\Debug\net6.0-windows\Homework7_3.runtimeconfig.json
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\bin\Debug\net6.0-windows\Homework7_3.dll
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\bin\Debug\net6.0-windows\Homework7_3.pdb
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.dll
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\refint\Homework7_3.dll
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.pdb
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\Homework7_3.genruntimeconfig.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\Homework7_3\obj\Debug\net6.0-windows\ref\Homework7_3.dll
